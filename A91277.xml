@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short, legal, medicinal, usefull, safe, easie prescription, to recover our kingdom, Church, nation from their present dangerous, distractive, destructive confusion, and worse than Bedlam madnesse; seriously recommended to all English freemen who desire peace, safety, liberty, settlement. By William Prynne, Esq; a bencher of Lincolns Inne.</title>
+            <author>Prynne, William, 1600-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91277</idno>
+            <idno type="STC">Wing P4080</idno>
+            <idno type="STC">Thomason E772_1</idno>
+            <idno type="STC">ESTC R203288</idno>
+            <idno type="EEBO-CITATION">99863285</idno>
+            <idno type="PROQUEST">99863285</idno>
+            <idno type="VID">115476</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91277)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115476)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 118:E772[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short, legal, medicinal, usefull, safe, easie prescription, to recover our kingdom, Church, nation from their present dangerous, distractive, destructive confusion, and worse than Bedlam madnesse; seriously recommended to all English freemen who desire peace, safety, liberty, settlement. By William Prynne, Esq; a bencher of Lincolns Inne.</title>
+                  <author>Prynne, William, 1600-1669.</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold by Edward Thomas at the Adam and Eve in Little Britain,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nou. 4".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115476:1" rendition="simple:additions"/>
+            <p>A ſhort, legal, medicinal, uſefull, ſafe, eaſie PRESCRIPTION, To recover our Kingdom, Church, Nation from their preſent dangerous, diſtractive, DESTRUCTIVE CONFUSION, And worſe than Bedlam Madneſſe; <hi>SERIOVSLY</hi> Recommended to all <hi>Engliſh Freemen</hi> who deſire Peace, Safety, Liberty, Settlement.</p>
+            <p>By <hi>William Prynne,</hi> 
+               <abbr>Eſq</abbr> a Bencher of <hi>Lincolns Inne.</hi>
+            </p>
+            <bibl>
+               <hi>Judges 19.30.</hi>
+            </bibl>
+            <q>
+               <p>Conſider of it, take advice, and ſpeak your mindes.</p>
+            </q>
+            <bibl>
+               <hi>Prov. 12.19, 20.</hi>
+            </bibl>
+            <q>
+               <p>Deceit is in the heart of them that imagine evil: but to the coun<g ref="char:EOLhyphen"/>ſellors of peace, is joy: There ſhall no evil happen to the juſt, but the wicked ſhall be filled with miſchief.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be ſold by <hi>Edward Thomas</hi> at the <hi>Adam</hi> and <hi>Eve</hi> in <hi>Little Britain,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:115476:2"/>
+            <pb n="1" facs="tcp:115476:2"/>
+            <head>A ſhort, legal, medicinal, uſefull, ſafe, eaſie <hi>Preſcription, &amp;c.</hi>
+            </head>
+            <p>THe Ambition, Treacherie, Turbulency, A<g ref="char:EOLhyphen"/>varice, and late infuſed Jeſuitical Princi<g ref="char:EOLhyphen"/>ples of ſome ſwaying Officers in the Par<g ref="char:EOLhyphen"/>liaments Army, aſpiring after the Supreme Authoritie, Government, and publike Revenues of our Three Kingdoms, ha<g ref="char:EOLhyphen"/>ving ſo farr corrupted their judgements, ſeared their Con<g ref="char:EOLhyphen"/>ſciences, depraved their wills, and hardned their hearts, as openly, frequently to violate all ſacred Oaths, Vows, Co<g ref="char:EOLhyphen"/>venants, Obligations, Truſts, Commiſſions, Engagements to the late King his Heirs and Succeſſors, the old Parliament, Kingdom, Nation; (for whoſe defence they were origi<g ref="char:EOLhyphen"/>nally raiſed, commiſſioned) and to their own new-created Antiparliamentary Junctoes, Conventions, Protectors and Conventicles, which they have all ſucceſſively ſubverted, engroſſing the Soveraign Royal and Parliamental Power into their own hands,<note n="a" place="margin">2 Theſſ. 2.3<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 4.</note> 
+               <hi>oppoſing and advancing themſelves</hi> (by meer Treacherie, Perjurie, Violence, and other <hi>deſperate wayes of <g ref="char:V">Ʋ</g>nrighteouſneſs</hi>) like that man <hi>of ſin, and Mystery of Iniquity, above all that is worſhipped and called God;</hi> making no leſs then 3. publike Revolutions of our Government, and forcibly diſſolving two Parliaments (as they deemed them) of their own modelling,<note n="b" place="margin">See their claration, May 6. 1659.</note> 
+               <hi>convening,</hi> within 6. mo<g ref="char:EOLhyphen"/>neths ſpace, laſt paſt; and thereby made our formerly re<g ref="char:EOLhyphen"/>nowned Nations, the ſcorn, reproach, wonder, deriſion of all
+<pb n="2" facs="tcp:115476:3"/>the world; themſelves the Monſters of Men, the Shame of <hi>Chriſtianity, Chivalry;</hi> expoſed our three Nations to the uttermoſt extremity of danger by new unpreſident<g ref="char:EOLhyphen"/>ed Ataxies, Diviſions, Encroachments upon their heredi<g ref="char:EOLhyphen"/>tarie Rights, Liberties, Properties, cauſed a total decay of all ſorts of Trade, Juſtice, Legal proceedings at home, and occaſioned a ſpeedie, much feared invaſion from our po<g ref="char:EOLhyphen"/>tent combined Popiſh adverſaries abroad, when thus miſerably diſtracted, diſcontented, impoveriſhed, and to<g ref="char:EOLhyphen"/>tally diſabled to repulſe them: It is high time for every publike-Spirited Engliſhman in this ſtrange, diſtracting Confuſion (which hath almoſt as much divided, diſconten<g ref="char:EOLhyphen"/>ted all conſcientious Officers, Souldiers in the Armie, Na<g ref="char:EOLhyphen"/>vy, as the people of all callings, conditions) to contribute their beſt advice, by all juſt, legal, hopefull, ſpeedy waies, agreeable with the Lawes of God and the Land, and thoſe Rights, Liberties of the people, (the defence whereof all Officers, Soldiers in the Army have ſo<note n="*" place="margin">See their Collection of Engagements, Remonſtran<g ref="char:EOLhyphen"/>ces, &amp;c. for ſettling the Subjects in their juſt Li<g ref="char:EOLhyphen"/>berties and Freedoms, London 1657.</note> frequently, con<g ref="char:EOLhyphen"/>ſtantly avowed they were principally raiſed, and reſolved to defend, though they have hitherto failed in their pro<g ref="char:EOLhyphen"/>miſes) to recover us out of the labyrinth of our almoſt in<g ref="char:EOLhyphen"/>extricable amazing Confuſions, ſettle our pernicious diſ<g ref="char:EOLhyphen"/>tractions, and prevent that viſible, imminent, univer<g ref="char:EOLhyphen"/>ſal deſolation elſe likely to fall upon our Church, State, Nation, Religion, beyond all poſſibility of eſcape, through the Army-Officers raſh deſtructive Counſels, and viola<g ref="char:EOLhyphen"/>tions of their Truſts, Oathes, Engagements, both as Sol<g ref="char:EOLhyphen"/>diers, Chriſtians, and Members of the Kingdom.</p>
+            <p>The only juſt, legal, probable Means now left that I can preſcribe both for our Nations, Churches, Armies preſent and future Safety too (if they will cordially and chriſti<g ref="char:EOLhyphen"/>anly ſubmit thereto, as they ought in conſcience, juſtice, prudence) is,</p>
+            <p n="1">1. For all the antient Nobilitie of the Kingdom (the<note n="c" place="margin">See my Plea for the Lords, p. 43.51, to 60.</note> 
+               <hi>hereditary Great Counſel and Counſellors of the Nation</hi> in all actual <hi>Interregnums,</hi> and <hi>publike Confuſions,</hi> (as our Hiſtori<g ref="char:EOLhyphen"/>ans, Records, Law-books, and the Commons themſelves in the long Parliament reſolved) both by Cuſtom, Law,
+<pb n="3" facs="tcp:115476:3"/>Right) to aſſemble themſelves by Common conſent at <hi>Weſt<g ref="char:EOLhyphen"/>minster,</hi> or ſo many of them at leaſt, or their heirs if dead, who conſtantly adhered to the long Parliament; and there to iſſue out Writs according to the Statute of 16 <hi>Caroli cap.</hi> 1. on the 3<hi rend="sup">d</hi> Monday of <hi>November</hi> next, <hi>under</hi> 12 <hi>or more of their hands and ſeals,</hi> for a free and legal election of Knights, Citizens, Burgeſſes, Barons, in every City, County, Bo<g ref="char:EOLhyphen"/>rough, Port, according to former uſage, to appear at the Parliament-houſe in <hi>Westminſter,</hi> the third <hi>Monday</hi> in <hi>Ja<g ref="char:EOLhyphen"/>nuary</hi> next enſuing, at a Parliament then and there to be held, in ſuch manner and form as this Act preſcribes: wherin ſuch Propoſals and Counſels may by common con<g ref="char:EOLhyphen"/>ſent be purſued, as may through Gods bleſſing, ſoon re<g ref="char:EOLhyphen"/>ſtore our priſtine peace, trade, honor, wealth, proſperity, felicity, ſettlement, and ſecure us from all future changes.</p>
+            <p n="2">2ly. For all Freeholders in every County of the King<g ref="char:EOLhyphen"/>dom at the next County Court in <hi>November,</hi> to meet toge<g ref="char:EOLhyphen"/>ther and make choiſe of the ableſt, honeſteſt, wiſeſt, ſtouteſt Gentlemen for their Sheriffs, to keep the Peace of the County, command the <hi>Militia,</hi> ſuppreſſe all Inſurrections, elect, return Knights, Citizens, Burgeſſes to ſerve in Parlia<g ref="char:EOLhyphen"/>ment, and execute the office of a Sheriff; it being their antient legal Right and Priviledge, by ſpecial grants of our Kings, both in and out of Parliament, which none in late or preſent power ought to encroach upon, or deprive them of, and they are all now bound to exerciſe and main<g ref="char:EOLhyphen"/>tain for their own preſervation and ſafety. This their right I ſhall clearly evidence beyond contradiction.</p>
+            <p n="1">1. By the peoples antient Right in <hi>Edward the Confeſſors time, or before,</hi> in their <hi>Folkmote</hi> to chuſe an <hi>Heretoke</hi> (a Baron or perſon of Quality) in every County, in nature of a Captain, who had the power of the County and Mili<g ref="char:EOLhyphen"/>tia in every Shire, <hi>ficut et Vicecomites Provinciarum et Comitatuum eligi debent per ſingulos Comitatus in pleno Folkmoto: <hi>as Sheriffs of Provinces and Counties ought to be choſen in every County;</hi>
+               </hi> as you may read at large in Mr. <hi>Lambards</hi> Archaion, f. 135. <hi>de Hetetochiis;</hi> in Sir <hi>Henry Spelmans</hi> Gloſſarium, <hi>Dux &amp; Heretochius,</hi> p. 232, 348, 349.
+<pb n="4" facs="tcp:115476:4"/>My Soveraign Power of Parliaments, part 2. p. 24, 25. <hi>Cooks</hi> 2 Inſtitutes, p. 174, 175.</p>
+            <p n="2">2ly. By Rot. Clauſ. Anno 16 <hi>Johannis Regis,</hi> part 1. m. 2. dorſo. <hi>Dominus Rex conceſſit Baronibus ſuis, Militibus &amp; liberè tenentibus de</hi> Cornubia, <hi>quod habeant Vicecomitem de a<g ref="char:EOLhyphen"/>liquo ipſorum <hi>ad Electionem eorun<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> Idem verò Barones, Mi<g ref="char:EOLhyphen"/>lites, &amp; liberè tenentes conceſſerunt</hi> Willielmo Wiſe, <hi>quod ba<g ref="char:EOLhyphen"/>leat Hundredum de</hi> Eſtweneleſer <hi>ad feodi firmam, ſibi &amp; hae<g ref="char:EOLhyphen"/>redibus ſuit imperpetuum, per dimidium marci Argenti, ad feſ<g ref="char:EOLhyphen"/>tum Sancti</hi> Michaelis <hi>reddendum.</hi>
+            </p>
+            <p n="3">3ly.<note place="margin">DeCom. Cor<g ref="char:EOLhyphen"/>nub.</note> By Rot. Pat. An. 5 H. 3. memb. 6. H. <hi>Dei gratia, &amp;c. Archiepiſcopis, Epiſcopis, Comitibus, Baronibus, Militibus, liberè tenentibus &amp; aliis omnibus de Com.</hi> Cornub. <hi>ſalutem. Sci<g ref="char:EOLhyphen"/>atis quod conceſſimus Vobis quod liberam habeatis electionem eli<g ref="char:EOLhyphen"/>gendi vobis in Vicecomitem noſtrum unum de Com.</hi> Cornub. <hi>Et ideo vobis mandamus quod eligatis tres fideles &amp; diſcretos de Com.</hi> Cornub. <hi>&amp; illos nobis praeſentari fac. apud</hi> London <hi>in Octab. Clauſi Paſche, &amp; nos unum ex illis tribus prout nobis pla<g ref="char:EOLhyphen"/>cuerit, Vobis dabimus ad Vicecomitem. Et interim commiſſimus Comitatum illum</hi> Cornub. <hi>cum omnibus illis quae ad nos pertinent dilecto &amp; fideli noſtro</hi> Reginaldo <hi>de</hi> Valletorta <hi>cuſtodiend. vo<g ref="char:EOLhyphen"/>biſque mandamus quatinus eidem</hi> Reginaldo <hi>uſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ad praedictum terminum ſitis intendentes et reſpondentes in omnibus, tanquam Vic. nostro &amp; ballivo noſtro. Et in hujus, &amp;c. T. H. de</hi> Burgo <hi>&amp;c. apud</hi> Weſtm. xxviij. <hi>die</hi> Jan. <hi>an regni noſtro</hi> 5<hi rend="sup">to</hi>.</p>
+            <p n="4">4ly.<note place="margin">De Vic electo in Com. Sum. &amp; Dorſet.</note> By Pat. 10. H. 3. memb. 4. <hi>Rex Archiepiſcopis, Epiſ<g ref="char:EOLhyphen"/>copis, Abbatibus, Prioribus, Comitibus, Baronibus, Militibus, liberè tenentibus, &amp; omnibus aliis de communibus</hi> Sumerſet &amp; Dorſ. <hi>ſalutem. Sciatis quod electioni quam fecistis de</hi> Willo: <hi>fil.</hi> Henr. <hi>ad Vic. noſtrum faciend. de Comitat.</hi> Sumerſet &amp; Dor<g ref="char:EOLhyphen"/>ſet <hi>aſſenſum noſtrum praebuimus. Et ideo vobis mandamus quod ei tanquam Vic nostro quamdiu nobis placuerit intendentes ſitis &amp; reſpondentes. In cujus, &amp;c. Teste Rege apud</hi> Winton. xxvij <hi>die Jan.</hi>
+            </p>
+            <p n="5">5ly. By <hi>Mat. Paris, Mat. Weſtminſter, Daniel,</hi> and others who record, that in the 45 year of King <hi>Henry,</hi> the 3<hi rend="sup">d</hi>. the King placed new Sherifs in every Countie, diſplacing the <hi>Sheriffs</hi> the Barons and people had made; whereupon the
+<pb n="5" facs="tcp:115476:4"/>people in every Countie, manfully reſiſted the Sheriffs, and would not obey, nor regard nor anſwer them in any thing, whereat the King was much troubled. Much leſs then ought they now to obey any Sheriffs obtruded on them by the Army-Officers, or any other illegal uſurped power.</p>
+            <p n="6">6ly. By the Statute of <hi>Articuli ſuper chartas,</hi> An. 28 E. 1. chap. 8. <hi>The King hath granted to his people, <hi>that they ſhall have the election of Sheriffs in every Shire</hi> (where the Shrivalty is not of fee) <hi>if they will.</hi>
+               </hi> And chap. 13. <hi>For as much as the King hath granted <hi>the election of Sheriffs to the Commons of the Shire,</hi> the King willeth, that <hi>they ſhall chuſe ſuch Shyrifs as ſhall not charge them,</hi> and that they ſhall not put in any Officer for rewards or bribes. And that they ſhall not ledge too oft in one place, nor with poor perſons, nor with men of Religion.</hi> By which Statutes, (being but confirmati<g ref="char:EOLhyphen"/>ons of the peoples former rights by cuſtom, or Kings grants, on which ſom of them encroached, which was the occaſion of theſe Acts) all Counties uſed to elect their Sheriffs: And if they elected any mean or unfitting perſon, as they ſome<g ref="char:EOLhyphen"/>times did, he then commanded them by his Writs to chuſe another who was fit to diſcharge that Office; witneſs this memorable record enſuing.</p>
+            <p>Cl. 31 E. 1. m. 13. dorſo. <hi>Rex Coronatoribus et toti com<g ref="char:EOLhyphen"/>munitati Comitatuum</hi> Salop. <hi>&amp;</hi> Stafford. <hi>ſalutem.</hi>
+               <note place="margin">De Vic. elig.</note> 
+               <hi>Cum nu<g ref="char:EOLhyphen"/>per pro communi utilitate regni noſtri inter alia conceſſerimus po<g ref="char:EOLhyphen"/>pulo ejuſdem regni, quod habeat ſi voluerit electionem Vic. in ſin<g ref="char:EOLhyphen"/>gulis comitatibus dicti regni cum opus fuerit Vicecom. praedict. in eiſdem, ubi videlicet Vicecomes de feodo non exiſtit. Ac</hi> Ricus: de Harlegh <hi>per vos in Vic. comitatuum praedictorum nuper electus, ad officium illud faciendum minus ſufficiens est, ſicut ex testimonio fidedigno accepimus: Vobis mandamus quod aliquem qui melius ſciat &amp; poſſit officio Vic. dictorum comitatuum intendere et utilior fuerit ad idem officium exequendum in Vic. eorundem comitatuum pro vobis, ſi volueritis, eligatis, et ipſum ſic electum per aliquem le<g ref="char:EOLhyphen"/>galem et circumſpectum hominem ex parte veſtra cum literis veſtris patentibus ſub ſigillis ſex de diſcretioribus &amp; probioribus Mil. eo<g ref="char:EOLhyphen"/>rundem comitatuum Theſs. &amp; Baronib. noſtris de Scaccario in cra<g ref="char:EOLhyphen"/>ſtino Sancti Michaelis prox. futuri ſine dilatione praeſentetis, ut ip<g ref="char:EOLhyphen"/>ſe
+<pb n="6" facs="tcp:115476:5"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>unc ibidem praeſtito ſicut moris eſt ſacramento, extunc ea faciat &amp; exerceat, quae ad officium <g ref="char:V">Ʋ</g>icecomitis pertinent in com prae<g ref="char:EOLhyphen"/>dictis. Et habeatis ibi tunc boc breve. Sci<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uri, quod ſi talem per vos electum modo praedicto non praeſentaveritis coram praefatis Theſſ. &amp; Baronibus noſtris in crastino praedicto, praedicti Theſſ. &amp; Burones extunc nobis de alio Vicecomite Vobis praeficiendo in de<g ref="char:EOLhyphen"/>fectu veſtri providebunt.</hi> Teſte Rege apud Sarum. xvi. die April.</p>
+            <p n="8">8. By Clauſ. 12 E 3. pars 2. m. 15. Clauſ. 13 E. 3. pars 3. dorſ. 16. Cl. 14 E 3. pars 2. m. 3. <hi>De Vicecomitibus Eligendis per totam Angliam:</hi> where in are ſeveral writs iſſued authorizing and commanding the people <hi>to elect their Shyrifs in every County throughout England,</hi> with other Records to the like effect over-tedious to recite at large.</p>
+            <p n="9">9ly. By Mr. <hi>Lambards Archaion</hi> f 135. and Sir <hi>Edward Cookes</hi> 2. Inſtitutes on Magna Charta <hi>p.</hi> 174, 175, 558, 559, 566. who reſolve: <hi>That Sheriffs in antient times were and oft to be choſen by the Free-holders, of the County in the County Court,</hi> as Conſervators of the Peace, Coroners, Ver<g ref="char:EOLhyphen"/>derers, Conſtables, Petty Conſtables, were then and ſince Elected likewiſe by the people; as well by the Kings writs, as without them, in caſes of neceſſity.</p>
+            <p n="10">Xly. By the conſtant cuſtome of all Corporations which are counties within themſelves, having power Annually to chuſe Sheriffs only by the Kings Charters without any ſpecial writ, as <hi>London, Briſtol, Gloceſter, Yorke, Canterbury, Coventry,</hi> &amp;c. uſe to do. Therefore every County in <hi>England</hi> and <hi>Wales,</hi> may do the like without any ſpecial writs, being a neceſſary annual, antient ſtanding Office, eſpecially in theſe confuſed times, when none have any legal Authority to iſſue out Writs or Commiſſions to elect or ſwear Sheriffs, by vertue of the premiſed Statutes; And the Army-Officers with other ſelf-created Uſurping Powers may as lawfully obtrude Mayors, Sheriffs, and o<g ref="char:EOLhyphen"/>ther Officers on every Corporation of <hi>England</hi> without their election, and deprive them of their freedome to elect them; as thruſt Sheriffs, Juſtices of the Peace, Coroners,
+<pb n="7" facs="tcp:115476:5"/>or other eligible Officers upon Counties; and rob them of this their juſt antient right and privilege; now ſtre<g ref="char:EOLhyphen"/>nuouſly to be revived, aſſerted for their common ſafety, againſt all encroachments thereon. The Statute of <hi>Weſt<g ref="char:EOLhyphen"/>minſter</hi> 1. ch. 5. enacting, declaring, <hi>That all Elections ought to be free, and not <hi>diſturbed by force of arms</hi> under great for<g ref="char:EOLhyphen"/>feitures by no Great men <hi>nor others.</hi>
+               </hi>
+            </p>
+            <p n="3">3ly. Let all Counties, Cities, Boroughs, Ports, make choice of the wiſeſt, ableſt, ſtouteſt, diſcreeteſt Perſons, ſuch as are beſt affected to Peace, Settlement, and the Na<g ref="char:EOLhyphen"/>tions publike Intereſt, for their Knights, Citizens and Burgeſſes, not of raw, unexperienced, timorous, or time<g ref="char:EOLhyphen"/>ſerving, unſtable, ſelf-ſeeking, turbulent men.</p>
+            <p n="4">4ly. Let all Counties, Cities, Noblemen, Gentlemen, Yeomen, Clergymen, and Freemen of the Nation unani<g ref="char:EOLhyphen"/>mouſly reſolve, to obey no new, illegal, tyrannical, up<g ref="char:EOLhyphen"/>ſtart Powers, Officers, Conventicles, Committees or Councils of men whatſoever forcibly obtruded on them; nor to execute any of their Orders or commands; but only to obey ſuch legal Officers as themſelves ſhall legally e<g ref="char:EOLhyphen"/>lect, or a Free Parliament duly elected by them: nor pay any Taxes, Cuſtoms, Impoſts, Exciſes, Contributions whatſoever to any Officers, Souldiers, Collectors, but ſuch as ſhall be impoſed by common conſent in a free and lawfull Parliament, it being their antient Birthright (for defence whereof the Armie was firſt raiſed) ratified not only by ſundry antient Statutes, and the late <hi>Petition of Right,</hi> but ſeveral <hi>Acts, Votes, Declarations, Judgements</hi> the laſt long Parliament of King <hi>Charles,</hi> acknowledged in the <hi>Inſtrument of Government</hi> it ſelf, the late <hi>Petition and Ad<g ref="char:EOLhyphen"/>vice,</hi> the <hi>Armies</hi> own former <hi>Declarations,</hi> and the late diſſolved <hi>Juncto</hi> in their very laſt <hi>Knack</hi> of the 12. of this inſtant <hi>October,</hi> their Plea and Papers ſince.</p>
+            <p n="5">5ly. If any Officers, and Souldiers of the Army, out of faction, ambition, ſelf-ends, or Jeſuitical ſeduction, ſhall obſtinately, traiterouſly, maliciouſly, or tyrannically op<g ref="char:EOLhyphen"/>poſe the people in their elections of Sheriffs, Knights, Ci<g ref="char:EOLhyphen"/>tizens, Burgeſſes, or levie any Taxes, Exciſes upon them
+<pb n="8" facs="tcp:115476:6"/>by armed violence, contrarie to all their former-forfeited, now-expired Commiſſions, Declarations, Engagements; let them then unanimouſly declare and proceed againſt them as profeſſed publick Enemies, Traitors to their Na<g ref="char:EOLhyphen"/>tive Countrie; who by their former and late Treacheries, Rebellions, and unwarrantable proceedings againſt all their Superiors, (tranſcending all preſidents in profane or ſacred ſtories) have actually in Law, juſtice, forfeited not only all their Commiſſions, Commands, and Arrears of pay, but a their very lives, lands, eſtates; and that our whole 3. Nations by their Solemn, League and Covenant, for their own future preſervation, are obliged to bring them to <hi>publike Juſtice,</hi> as themſelves have proceeded againſt hun<g ref="char:EOLhyphen"/>dreds, nay thouſands of other Delinquents not half ſo criminal as themſelves; and thereupon intreat all other Officers, Souldiers in the Army, who have any fear of God, or love to themſelves, their poſterities, or Native Countrie remaining in their breſts, as <hi>Moſes</hi> did the Congregation of <hi>Iſrael</hi> in the Rebellion of <hi>Korah. Dathan,</hi> and <hi>Abiram,</hi> who mutinied the people againſt him and <hi>Aaron,</hi> Numb. 16. <hi>Depart I pray ye from the Tents of theſe wicked men, and touch nothing of theirs, leſt ye be conſumed in all their ſinnes. So they gat up from the Tabernacle of</hi> Korah, Da<g ref="char:EOLhyphen"/>than <hi>and</hi> Abiram <hi>on every ſide.</hi> And as many Officers, Sol<g ref="char:EOLhyphen"/>diers as ſhall thereupon deſert the Tents of their Rebelli<g ref="char:EOLhyphen"/>ous Commanders, and contribute their aſſiſtance for the ſpeedy calling and ſafe ſitting of a free, lawful Parliament, without any future mutinies, to interrupt or diſſolve it when convened according to the premiſed Statute of 16 <hi>Caroli</hi> c. 1. let them be aſſured of their full arrears, and of indempnitie for what is paſt, which none elſe but a free and lawful Parliament can grant them, all other Indem<g ref="char:EOLhyphen"/>nities being void in Law. And if this will not ſatisfie, let them beware, <hi>leſt the earth cleave aſunder that is under them; and then open her mouth and ſwallow them up alive, with their houſes, men, goods, and all appertaining to them, and they periſh from among the Congregation,</hi> as <hi>Korah, Dathan</hi> and <hi>Abiram</hi> with their families and adherents did, by this or ſome o<g ref="char:EOLhyphen"/>ther
+<pb n="9" facs="tcp:115476:6"/>exemplarie Judgements, and a univerſal Inſurrec<g ref="char:EOLhyphen"/>tion of our three whole diſcontented, oppreſſed, ruin<g ref="char:EOLhyphen"/>ed Nations againſt them, which they may juſtly fear and expect, if they believe there is a <hi>righteous God that judg<g ref="char:EOLhyphen"/>eth in the earth, a Lord of hosts</hi> able to ſcatter, puniſh, exe<g ref="char:EOLhyphen"/>cute vengeance on them here, and caſt them <hi>into hell</hi> for ever <hi>hereafter,</hi> for their manifold unlamented, reiterated, tranſcendent Rebellions: or repute theſe Texts Canoni<g ref="char:EOLhyphen"/>cal, which I ſhall recommend to their ſaddeſt Meditations. Prov. 29.10. <hi>He that being often reproved hardneth his neck, ſhall ſuddenly be deſtroyed, and that without remedy.</hi> (as the late <hi>Anti-Parliamentary Junctoes,</hi> &amp; <hi>Protectors</hi> have been) Prov. 11.21. <hi>Though hand go in hand, yet the wicked ſhall not go unpuni<g ref="char:EOLhyphen"/>ſhed.</hi> Pſal. 68.21. <hi>God ſhall wound the head of his Enemies, and the hairy ſcalp of ſuch a one as goeth on ſtill in his Treſpaſſes.</hi> Ezech. 24.14. <hi>I the Lord have ſpoken it, it ſhall come to paſſe, I will doe it; I will not goe back, neither will I ſpare, neither will I repent; but according to thy wayes and according to thy doings I will recompence and they ſhall judge thee, ſaith the Lord.</hi> Col. 3.25. <hi>He that doth wrong ſhall receive according to the wrong done, and there is no reſpect of perſons with God;</hi> who can in a moment as eaſily deſtroy an whole Armie, and great hoſt of men (as he did<note n="*" place="margin">2 Kings 13.35. 2 Chron. 13.16, 17,</note> 
+               <hi>Sennacheribs, Jeroboams,</hi> and other Armies) as any one ſingle perſon.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>October</hi> the laſt, 1659. the day of <hi>King</hi>-condemning <hi>John Bradſhawes</hi> death, and tranſlation to his proper place, and arraignment in the <hi>Higheſt Court of Juſtice.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
